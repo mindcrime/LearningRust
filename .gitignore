@@ -1,4 +1,10 @@
 *~
-bin/
+**/bin/
+target
+target/
 target/*
-*.lock
+target/**
+**/target
+**/target/
+**/target/*
+**/*.lock
